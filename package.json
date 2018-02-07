@@ -1,0 +1,15 @@
+{
+  "name": "travis-webhook-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "skulasekar",
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "travisci-webhook-handler": "^2.0.0"
+  }
+}
